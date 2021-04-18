@@ -12,6 +12,6 @@
 
 - name: Dart
   weight: 2
-  
-  - name: PHP
+   
+- name: PHP
   weight: 1

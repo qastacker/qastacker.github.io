@@ -1,10 +1,7 @@
 - name: Git
   weight: 4
 
-- name: Zsh
-  weight: 3
-
-- name: MongoDB
+- name: MySQL
   weight: 1
 
 - name: Scrum
@@ -22,11 +19,11 @@
 - name: npm
   weight: 3
 
-- name: gulp
-  weight: 3
-
 - name: Maven
   weight: 2
 
-- name: Keycloak
+- name: WebdriverIO
+  weight: 1
+
+- name: JMeter
   weight: 1

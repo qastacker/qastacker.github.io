@@ -4,7 +4,7 @@
 - name: Cucumber
   weight: 3
 
-- name: WebdrierIO
+- name: WebdriverIO
   weight: 2
 
 - name: POSTMAN
@@ -16,5 +16,5 @@
 - name: Flutter
   weight: 2
   
-  - name: Codeigniter
+- name: Codeigniter
   weight: 2
