@@ -6,10 +6,10 @@
   weight: 4
 
 - name: HTML5
-  weight: 
+  weight: 3
 
 - name: CSS3
-  weight: 3
+  weight: 2
 
 - name: Dart
   weight: 2
