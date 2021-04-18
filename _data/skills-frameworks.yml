@@ -1,32 +1,20 @@
-- name: Angular
+- name: Selenium
   weight: 4
 
-- name: AngularJS
+- name: Cucumber
   weight: 3
 
-- name: React.js
+- name: WebdrierIO
   weight: 2
 
-- name: React Native
+- name: POSTMAN
   weight: 2
 
-- name: Node.js
+- name: REST Assured
   weight: 1
 
 - name: Flutter
   weight: 2
-
-- name: Selenium
-  weight: 3
-
-- name: Jasmine
-  weight: 3
-
-- name: Protractor
-  weight: 2
-
-- name: Jekyll
-  weight: 4
-
-- name: SpringBoot
+  
+  - name: Codeigniter
   weight: 2
