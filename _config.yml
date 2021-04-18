@@ -1,18 +1,19 @@
 # Site settings
-title: Long Do
-description: Personal website powered by Jekyll
+title: Qa Stacker
+#description: Personal website powered by Jekyll
+description: Welcome to my blog
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. https://example.com/
 updated: 2020
 
 # Landing Page
-username: Long Do
-typing_text: Front-End Developer
-email: long.p.do@fau.de
-github_username: longpdo
-codepen_username: longpdo
+username: Azharuddin
+typing_text: Software Test Engineer
+email: qastacker@gmail.com
+github_username: qastacker
+#codepen_username: longpdo
 dev_username:
-linkedin_username: longpdo
+linkedin_username: mhdtoazar
 twitter_username:
 
 # About Me Section
@@ -26,7 +27,7 @@ skills_title: Skills
 # Timeline Section
 show_timeline_card: true
 timeline_title: My Journey
-cv_download_link: https://github.com/longpdo/Awesome-CV/blob/master/examples/cv.pdf
+#cv_download_link: https://github.com/longpdo/Awesome-CV/blob/master/examples/cv.pdf
 
 # Projects Section
 show_projects_card: true
@@ -40,7 +41,7 @@ show_contact_card: true
 contact_title: Get In Touch
 
 # Github-Metadata
-repository: longpdo/personal-website
+repository: qastacker/qastacker.github.io
 projects:
   # pushed or stars
   sort_by: stars
