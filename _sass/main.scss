@@ -235,7 +235,7 @@ a {
     justify-content: center;
     position: relative;
     top: -6rem;
-    width: 15rem;
+    width: 20rem;
   }
 
   h1::before {
@@ -245,14 +245,14 @@ a {
     box-sizing: border-box;
     height: 15rem;
     position: absolute;
-    left: 1rem;
+    left: -1.6rem;
     top: -7rem;
     width: 15rem;
   }
 
   em {
     font-family: $font-family-logo;
-    font-size: 4rem;
+    font-size: 5rem;
     font-style: normal;
   }
 
