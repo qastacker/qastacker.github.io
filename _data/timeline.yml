@@ -1,3 +1,14 @@
+- title: Cognizant
+  title-url: https://cognizant.com/
+  date: March 2022 - Present
+  subtitle: Quality Engineer & Assurance
+  tags:
+    - tag: Selenium
+    - tag: JMeter
+    - tag: Appium
+    - tag: Rest Assured
+  timeline-side: left
+
 - title: Adol
   title-url: https://adoltech.com/
   date: Aug 2020 - Present
